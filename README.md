@@ -28,8 +28,10 @@ Facilitates code reviews: Pull requests allow for code reviews, helping to catch
 
 1. Sign in to GitHub:
 If you don't already have an account, you'll need to create one. It's free for public repositories.
+
 2. Create a New Repository:
 Once logged in, you'll see a "+" button in the top right corner. Click it and select "New repository."
+
 3. Repository Details:
 Repository name: Choose a short, descriptive, and memorable name for your project. This will be part of the URL. Avoid spaces; hyphens or underscores are common separators.
 Description (optional): Briefly describe what your project is about. This helps others understand the purpose of your repository.
