@@ -87,15 +87,19 @@ For collaborative projects, public repos foster open contributions and community
 
 New Repository: If you created the repo on GitHub, you'll need to clone it to your local machine. GitHub provides the clone URL.
 Existing Repository: If someone else created it, you'll still need to clone it.
+
 2. Make Changes:
 
 Edit or add files in your local copy of the repository.
+
 3. Stage Changes:
 
 Use the git add command to tell Git which changes you want to include in your commit. git add . stages all changes.
+
 4. Commit Changes:
 
 Use the git commit -m "Your commit message" command to create a commit. The message should be a brief description of the changes you made.
+
 5. Push Changes:
 
 Use the git push origin main (or the appropriate branch name) command to upload your commit to the GitHub repository.
